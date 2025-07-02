@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafiul Islam Nishad</h1>
 <h3 align="center">A passionate MERN Developer & JAVA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninishad-1011" alt="ninishad-1011" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninishad-1011&label=Profile%20views&color=0e75b6&style=flat" alt="ninishad-1011" /> </p>
 
 - 🔭 I’m currently working on **FrontEnd Development**
 
