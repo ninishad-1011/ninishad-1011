@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Java, Nodejs,ExpressJs,mongodb,php**
 
-- 👯 I’m looking to collaborate on [HotelManagement_System](https://ninishad-1011.github.io/HotelmanagemenntSystem/)
+- 👯 Java Project [HotelManagement_System](https://ninishad-1011.github.io/HotelmanagemenntSystem/)
 
-- 🤝 I’m looking for help with [To-Do List](https://ninishad-1011.github.io/TodoList/)
+- 🤝 Front-End Simple Project [To-Do List](https://ninishad-1011.github.io/TodoList/)
 
-- 📫 How to reach me **nafiul1011@gmail.com**
+- 📫 Gamil **nafiul1011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
