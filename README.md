@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninishad-1011" alt="ninishad-1011" /></a> </p>
 
-- 🔭 I’m currently working on **TODO LIST, Hotel Management System**
+- 🔭 I’m currently working on **FrontEnd Development**
 
-- 🌱 I’m currently learning **Java, Nodejs,ExpressJs,mongodb**
+- 🌱 I’m currently learning **Java, Nodejs,ExpressJs,mongodb,php**
 
 - 📫 How to reach me **nafiul1011@gmail.com**
 
