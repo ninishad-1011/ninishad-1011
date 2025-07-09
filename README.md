@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninishad-1011&label=Profile%20views&color=0e75b6&style=flat" alt="ninishad-1011" /> </p>
 
-- 🔭 I’m currently working on **FrontEnd Development**
 
-- 🌱 I’m currently learning **Java, Nodejs,ExpressJs,mongodb,php**
+- 🌱 I’m currently learning **Java, Nodejs,ExpressJs,mongodb,php,React**
 
 - 👯 Java Project [HotelManagement_System](https://ninishad-1011.github.io/HotelmanagemenntSystem/)
 
