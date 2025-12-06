@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nafiul Islam Nishad</h1>
+<h1 align="center">Hi , I'm Nafiul Islam Nishad</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninishad-1011&label=Profile%20views&color=0e75b6&style=flat" alt="ninishad-1011" /> </p>
